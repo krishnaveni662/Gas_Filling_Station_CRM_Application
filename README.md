@@ -63,6 +63,6 @@ This CRM system streamlines day-to-day operations in a gas filling station, impr
 
 ## 📂 Project Documentation
  
-📸 Screenshots available in `/screenshots` folder
+📸 Screenshots available in `/Outputs` folder
 
 ---
